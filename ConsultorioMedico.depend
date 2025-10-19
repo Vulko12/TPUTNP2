@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1759434054 source:d:\tp final utn\consultoriomedico\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1759434054 d:\tp final utn\consultoriomedico\fecha.h
+
+1759434054 source:d:\tp final utn\consultoriomedico\hora.cpp
+	<iostream>
+	"Hora.h"
+
+1759434054 d:\tp final utn\consultoriomedico\hora.h
+
+1759434595 source:d:\tp final utn\consultoriomedico\main.cpp
+	<iostream>
+	<vector>
+	<limits>
+	"Paciente.h"
+	"Medico.h"
+
+1759434054 d:\tp final utn\consultoriomedico\paciente.h
+	"Persona.h"
+	"Fecha.h"
+
+1759434054 d:\tp final utn\consultoriomedico\persona.h
+	<string>
+
+1759434054 d:\tp final utn\consultoriomedico\medico.h
+	"Persona.h"
+	"Fecha.h"
+
+1759434054 source:d:\tp final utn\consultoriomedico\medico.cpp
+	<iostream>
+	"Medico.h"
+
+1759434054 source:d:\tp final utn\consultoriomedico\paciente.cpp
+	<iostream>
+	"Paciente.h"
+
+1759434624 source:d:\tp final utn\consultoriomedico\persona.cpp
+	<iostream>
+	<limits>
+	"Persona.h"
+
