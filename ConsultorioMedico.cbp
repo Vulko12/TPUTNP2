@@ -32,17 +32,45 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Especialidad.cpp" />
+		<Unit filename="Especialidad.h" />
+		<Unit filename="Facturacion.cpp" />
+		<Unit filename="Facturacion.h" />
 		<Unit filename="Fecha.cpp" />
 		<Unit filename="Fecha.h" />
+		<Unit filename="HistoriaClinica.cpp" />
+		<Unit filename="HistoriaClinica.h" />
 		<Unit filename="Hora.cpp" />
 		<Unit filename="Hora.h" />
 		<Unit filename="Medico.cpp" />
 		<Unit filename="Medico.h" />
+		<Unit filename="MetodoPago.cpp" />
+		<Unit filename="MetodoPago.h" />
+		<Unit filename="ObraSocial.cpp" />
+		<Unit filename="ObraSocial.h" />
 		<Unit filename="Paciente.cpp" />
 		<Unit filename="Paciente.h" />
 		<Unit filename="Persona.cpp" />
 		<Unit filename="Persona.h" />
+		<Unit filename="Turno.cpp" />
+		<Unit filename="Turno.h" />
+		<Unit filename="especialidadArchivo.cpp" />
+		<Unit filename="especialidadArchivo.h" />
+		<Unit filename="facturacionArchivo.cpp" />
+		<Unit filename="facturacionArchivo.h" />
+		<Unit filename="historiaClinicaArchivo.cpp" />
+		<Unit filename="historiaClinicaArchivo.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="medicoArchivo.cpp" />
+		<Unit filename="medicoArchivo.h" />
+		<Unit filename="metodoPagoArchivo.cpp" />
+		<Unit filename="metodoPagoArchivo.h" />
+		<Unit filename="obraSocialArchivo.cpp" />
+		<Unit filename="obraSocialArchivo.h" />
+		<Unit filename="pacienteArchivo.cpp" />
+		<Unit filename="pacienteArchivo.h" />
+		<Unit filename="turnoArchivo.cpp" />
+		<Unit filename="turnoArchivo.h" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>

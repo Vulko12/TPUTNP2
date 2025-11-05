@@ -1,44 +1,146 @@
 # depslib dependency file v1.0
-1759434054 source:d:\tp final utn\consultoriomedico\fecha.cpp
+1759434748 source:d:\tp final utn\consultoriomedico\fecha.cpp
 	<iostream>
 	"Fecha.h"
 
-1759434054 d:\tp final utn\consultoriomedico\fecha.h
+1759434744 d:\tp final utn\consultoriomedico\fecha.h
 
-1759434054 source:d:\tp final utn\consultoriomedico\hora.cpp
+1759434703 source:d:\tp final utn\consultoriomedico\hora.cpp
 	<iostream>
 	"Hora.h"
 
-1759434054 d:\tp final utn\consultoriomedico\hora.h
+1759434743 d:\tp final utn\consultoriomedico\hora.h
 
-1759434595 source:d:\tp final utn\consultoriomedico\main.cpp
+1762354233 source:d:\tp final utn\consultoriomedico\main.cpp
 	<iostream>
-	<vector>
-	<limits>
 	"Paciente.h"
 	"Medico.h"
+	"pacienteArchivo.h"
 
-1759434054 d:\tp final utn\consultoriomedico\paciente.h
+1759434742 d:\tp final utn\consultoriomedico\paciente.h
 	"Persona.h"
 	"Fecha.h"
 
-1759434054 d:\tp final utn\consultoriomedico\persona.h
-	<string>
+1760916107 d:\tp final utn\consultoriomedico\persona.h
 
-1759434054 d:\tp final utn\consultoriomedico\medico.h
+1759434742 d:\tp final utn\consultoriomedico\medico.h
 	"Persona.h"
 	"Fecha.h"
 
-1759434054 source:d:\tp final utn\consultoriomedico\medico.cpp
+1759434701 source:d:\tp final utn\consultoriomedico\medico.cpp
 	<iostream>
 	"Medico.h"
 
-1759434054 source:d:\tp final utn\consultoriomedico\paciente.cpp
+1760916628 source:d:\tp final utn\consultoriomedico\paciente.cpp
 	<iostream>
 	"Paciente.h"
 
-1759434624 source:d:\tp final utn\consultoriomedico\persona.cpp
+1760916653 source:d:\tp final utn\consultoriomedico\persona.cpp
 	<iostream>
-	<limits>
+	<cstring>
 	"Persona.h"
+
+1762354235 d:\tp final utn\consultoriomedico\pacientearchivo.h
+	"Paciente.h"
+
+1762354235 source:d:\tp final utn\consultoriomedico\pacientearchivo.cpp
+	<iostream>
+	<cstdio>
+	"pacienteArchivo.h"
+
+1762354920 source:d:\tp final utn\consultoriomedico\medicoarchivo.cpp
+	<iostream>
+	<cstdio>
+	"medicoArchivo.h"
+
+1762354920 d:\tp final utn\consultoriomedico\medicoarchivo.h
+	"Medico.h"
+
+1762355198 source:d:\tp final utn\consultoriomedico\especialidad.cpp
+	<iostream>
+	"Especialidad.h"
+
+1762355198 d:\tp final utn\consultoriomedico\especialidad.h
+
+1762354920 source:d:\tp final utn\consultoriomedico\especialidadarchivo.cpp
+	<iostream>
+	<cstdio>
+	"especialidadArchivo.h"
+
+1762354920 d:\tp final utn\consultoriomedico\especialidadarchivo.h
+	"Especialidad.h"
+
+1762355198 source:d:\tp final utn\consultoriomedico\obrasocial.cpp
+	<iostream>
+	"ObraSocial.h"
+
+1762355198 d:\tp final utn\consultoriomedico\obrasocial.h
+
+1762354920 source:d:\tp final utn\consultoriomedico\obrasocialarchivo.cpp
+	<iostream>
+	<cstdio>
+	"obraSocialArchivo.h"
+
+1762354920 d:\tp final utn\consultoriomedico\obrasocialarchivo.h
+	"ObraSocial.h"
+
+1762355804 source:d:\tp final utn\consultoriomedico\facturacion.cpp
+	<iostream>
+	"Facturacion.h"
+
+1762355804 d:\tp final utn\consultoriomedico\facturacion.h
+	"Fecha.h"
+
+1762354920 source:d:\tp final utn\consultoriomedico\facturacionarchivo.cpp
+	<iostream>
+	<cstdio>
+	"facturacionArchivo.h"
+
+1762354920 d:\tp final utn\consultoriomedico\facturacionarchivo.h
+	"Facturacion.h"
+
+1762355804 source:d:\tp final utn\consultoriomedico\historiaclinica.cpp
+	<iostream>
+	"HistoriaClinica.h"
+
+1762355804 d:\tp final utn\consultoriomedico\historiaclinica.h
+	"Fecha.h"
+
+1762354920 source:d:\tp final utn\consultoriomedico\historiaclinicaarchivo.cpp
+	<iostream>
+	<cstdio>
+	"historiaClinicaArchivo.h"
+
+1762354920 d:\tp final utn\consultoriomedico\historiaclinicaarchivo.h
+	"HistoriaClinica.h"
+
+1762355804 source:d:\tp final utn\consultoriomedico\metodopago.cpp
+	<iostream>
+	"MetodoPago.h"
+
+1762355804 d:\tp final utn\consultoriomedico\metodopago.h
+
+1762354920 source:d:\tp final utn\consultoriomedico\metodopagoarchivo.cpp
+	<iostream>
+	<cstdio>
+	"metodoPagoArchivo.h"
+
+1762354920 d:\tp final utn\consultoriomedico\metodopagoarchivo.h
+	"MetodoPago.h"
+
+1762355866 source:d:\tp final utn\consultoriomedico\turno.cpp
+	<iostream>
+	"Turno.h"
+
+1762355841 d:\tp final utn\consultoriomedico\turno.h
+	"Fecha.h"
+	"Hora.h"
+
+1762354920 source:d:\tp final utn\consultoriomedico\turnoarchivo.cpp
+	<iostream>
+	<cstdio>
+	"turnoArchivo.h"
+
+1762354920 d:\tp final utn\consultoriomedico\turnoarchivo.h
+	"Turno.h"
 

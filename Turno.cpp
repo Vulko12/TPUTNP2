@@ -14,7 +14,7 @@ void Turno::cargar() {
     fechaAtencion.cargar();
     cout << "HORA DE ATENCION:" << endl;
     horaAtencion.cargar();
-    cout << "IMPORTE: ";
+    cout << "IMPORTE: $";
     cin >> importe;
     cout << "ESTADO (1: Activo, 2: Atendido, 3: Cancelado): ";
     cin >> estado;
@@ -39,4 +39,3 @@ void Turno::mostrar() {
         default: cout << "Desconocido" << endl; break;
     }
 }
-// resto de setters y getters
